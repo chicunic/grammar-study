@@ -98,7 +98,7 @@
 
 - as 强调“同一时间”，多用于口语中。
 
-  **As they opened the door on the ground floor**, Marie said, “Don’t light the lamps!”
+  **As they opened the door on the ground floor**, Marie said, “Don't light the lamps!”
 
 ### 主句动作发生在从句动作之前
 
@@ -116,7 +116,7 @@
 
 - util / till 意为“直到……时候”。从句通常置于主句后。
 
-  He won’t play **until he has finished his homework**.
+  He won't play **until he has finished his homework**.
 
 ### 主句动作发生在从句动作之后
 
@@ -124,7 +124,7 @@
 
 - after 引导的从句须用【现在一般时】代替【将来一般时】，意为“等……之后”。
 
-  I’ll go and see her on Friday **after I get the new dress**.
+  I'll go and see her on Friday **after I get the new dress**.
 
 - after 置于 -ing 之前时，要看做介词后用动名词做宾语，因为这里可以用物主代词修饰动名词。
 
@@ -150,7 +150,7 @@
 
 ### 表时间的名词短语
 
-  I didn’t have a penny **the last time I saw you**.
+  I didn't have a penny **the last time I saw you**.
 
   **Each time you fail**, start all over again.
 
@@ -168,7 +168,7 @@
 
 ### 从属连词 because
 
-  They make fun of me **because I’m shorter than anyone else**.
+  They make fun of me **because I'm shorter than anyone else**.
 
 ### 从属连词 as
 
@@ -191,7 +191,7 @@
 - 主要由 so that 或 in order that 引导，意为“为了”“以便”。从句通常置于主句之后。
   由于目的状语表达的时一种尚未实现的愿望，因此从句中一般有一个情态动词 can / could / may / might / should / would 等。
 
-  Put the little plants in the shade **so that the sun won’t burn them**.
+  Put the little plants in the shade **so that the sun won't burn them**.
 
   His newspaper provided him with some money **in order that he might travel to Gambia for his research**.
 
@@ -247,7 +247,7 @@
 
 - [2] 从句用【现在一般时】，主句用【将来一般时】，表示可能。
 
-  **If we go on polluting the world**, it won’t be fit for us to live in.
+  **If we go on polluting the world**, it won't be fit for us to live in.
 
 - [3] 从句和主句均用【过去一般时】，表示过去。
 
@@ -261,7 +261,7 @@
 
 - 意为“如果……那么”。
 
-  But **if I give you a ring, then** you will know what it’s about.
+  But **if I give you a ring, then** you will know what it's about.
 
 - 由从属连词 unless 引导，表示否定，意为“除非”。
 
@@ -269,7 +269,7 @@
 
 - 由从属连词 so long as / as long as 引导，意为“只要”。
 
-  I don’t mind your knowing anything **as long as it goes no further**.
+  I don't mind your knowing anything **as long as it goes no further**.
 
 ## 让步状语从句 (adverbial clause of concession)
 
@@ -319,7 +319,7 @@
 
 ### 从属连词 like 可以代替 as 和 as if (非正式用法)
 
-  However, I can see the sky; it looks **like it’s going to rain**.
+  However, I can see the sky; it looks **like it's going to rain**.
 
 ## 比较状语从句 (adverbial clause of comparison)
 
@@ -327,7 +327,7 @@
 
   I **was happier than** I had ever been in my life.
 
-  It’s **as** good **as** the new ones.
+  It's **as** good **as** the new ones.
 
 - 比较分为两种，等量比较和差量比较。
 

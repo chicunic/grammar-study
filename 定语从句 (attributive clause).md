@@ -124,7 +124,7 @@
 
   关系代词 whom 做宾语
 
-- The girl **that / whom we saw yesterday** is Jim’s sister.
+- The girl **that / whom we saw yesterday** is Jim's sister.
 
   that 可以 替换 who / whom
 
@@ -136,7 +136,7 @@
 
   关系代词做 whose 做定语
 
-- Bob’s life changed one October evening in 1984 **when he was watching TV**.
+- Bob's life changed one October evening in 1984 **when he was watching TV**.
 
   关系副词 when 做时间状语
 
