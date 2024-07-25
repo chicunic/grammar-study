@@ -120,7 +120,7 @@
 
 ### 主句动作发生在从句动作之后
 
-- 从句由从属连词 after / since 等引导，意为“在*……之后”。
+- 从句由从属连词 after / since 等引导，意为“在……之后”。
 
 - after 引导的从句须用【现在一般时】代替【将来一般时】，意为“等……之后”。
 
@@ -277,7 +277,7 @@
 
 ### 由从属连词 although / though 引导
 
-- 意为“虽然”“尽管“。
+- 意为“虽然”“尽管”。
 
   And it's bigger, **although it's more expensive**.
 
@@ -319,7 +319,7 @@
 
 ### 从属连词 like 可以代替 as 和 as if (非正式用法)
 
-  However, I can see the sky; it looks l**ike it’s going to rain**.
+  However, I can see the sky; it looks **like it’s going to rain**.
 
 ## 比较状语从句 (adverbial clause of comparison)
 
@@ -343,7 +343,7 @@
 
 ### 等量比较从句
 
-- 由 as … as 引导，意为“与……一样(多/少)“。
+- 由 as … as 引导，意为“与……一样(多/少)”。
 
   在 as … as 引导的结构中，第一个 as 是副词，在主句中只能修饰形容词或副词；如修饰名词，则使用 as many … (可数)或 as much …(不可数)。第二个 as 是从属连词，引导从句。
 
